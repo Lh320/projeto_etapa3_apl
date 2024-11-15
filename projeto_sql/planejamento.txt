@@ -1,0 +1,19 @@
+projeto,
+
+pedir:
+
+nome
+
+dia de pagamento
+
+idade
+
+plano desejado
+
+preço do plano
+
+forma de pagmento 
+
+salario 
+
+cartão digital
